@@ -1,6 +1,6 @@
 const translations = {
   en: {
-    subtitle: "Custom tattoos from Gold Coast, Australia.",
+    subtitle: "Custom tattoos in Gold Coast, Australia.",
     "services-title": "Services",
 
     "realism-title": "Realism",
@@ -39,7 +39,7 @@ const translations = {
     "cookie-accept": "Accept"
   },
   es: {
-    subtitle: "Tatuajes personalizados desde Gold Coast, Australia.",
+    subtitle: "Tatuajes personalizados en Gold Coast, Australia.",
     "services-title": "Servicios",
 
     "realism-title": "Realismo",
