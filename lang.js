@@ -1,6 +1,5 @@
 const translations = {
   en: {
-    h1: "Guille Tattoo",
     subtitle: "Custom tattoos from Gold Coast, Australia.",
     "services-title": "Services",
 
@@ -40,7 +39,6 @@ const translations = {
     "cookie-accept": "Accept"
   },
   es: {
-    h1: "Guille Tattoo",
     subtitle: "Tatuajes personalizados desde Gold Coast, Australia.",
     "services-title": "Servicios",
 
